@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbuthiajk
 - 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning Java, Javascript and Web Debelopment
+- 🌱 I’m currently learning Java, Javascript and Web Development
 - 💞️ I’m looking to collaborate on venture projects and active learning
 - 📫 How to reach me j.kamau@alustudent.com/jkamau201@caledonian.ac.uk
 
